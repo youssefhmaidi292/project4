@@ -201,3 +201,7 @@ footer div{
 footer h2{
     margin-right: 10px;
 }
+@media (max-width: 900px) {.sec1, .sec2 nav, .sec3, .sec4 {
+    display: block;
+} 
+}
